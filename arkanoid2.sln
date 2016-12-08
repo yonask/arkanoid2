@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arkanoid2.CSharp.Plugins", "arkanoid2.CSharp.Plugins.csproj", "{EEA1AE92-162C-08AC-8D7A-43430773BC33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arkanoid2.CSharp", "arkanoid2.CSharp.csproj", "{65A153ED-64DC-1F9E-1681-B2845F764AC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arkanoid2.CSharp.Editor.Plugins", "arkanoid2.CSharp.Editor.Plugins.csproj", "{819223B5-890B-458D-7334-ED8CC2863724}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEA1AE92-162C-08AC-8D7A-43430773BC33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEA1AE92-162C-08AC-8D7A-43430773BC33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEA1AE92-162C-08AC-8D7A-43430773BC33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEA1AE92-162C-08AC-8D7A-43430773BC33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65A153ED-64DC-1F9E-1681-B2845F764AC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65A153ED-64DC-1F9E-1681-B2845F764AC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65A153ED-64DC-1F9E-1681-B2845F764AC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65A153ED-64DC-1F9E-1681-B2845F764AC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{819223B5-890B-458D-7334-ED8CC2863724}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{819223B5-890B-458D-7334-ED8CC2863724}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{819223B5-890B-458D-7334-ED8CC2863724}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{819223B5-890B-458D-7334-ED8CC2863724}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
